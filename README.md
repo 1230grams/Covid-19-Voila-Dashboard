@@ -7,7 +7,10 @@ This is my attempt at making a simple interactive Dashboard using Python, Ipywid
 
 # Usage
 You can preview the dashboard by running
-
+```
+$ voila --template=gridstack Coronavirus-jupyter-flex-ipywidgets-voila.ipynb --VoilaConfiguration.resources='{“gridstack”: {“show_handles”: True}}'
+```
+Or you can 
 
 # Documentation
 Voila: [![Documentation](https://voila.readthedocs.io/en/stable/)](https://voila.readthedocs.io/en/stable/)
@@ -19,7 +22,6 @@ Ipywidgets: [![Documentation](https://ipywidgets.readthedocs.io/en/latest/)](htt
 Ipyleaflet: [![Documentation](https://ipyleaflet.readthedocs.io/en/latest/)](https://ipyleaflet.readthedocs.io/en/latest/)
 
 bqplot: [![Documentation](https://bqplot.readthedocs.io/en/latest/index.html)](https://bqplot.readthedocs.io/en/latest/index.html)
-
 
 
 
