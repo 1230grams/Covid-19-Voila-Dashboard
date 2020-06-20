@@ -10,7 +10,8 @@ You can preview the dashboard by running
 ```
 $ voila --template=gridstack Coronavirus-jupyter-flex-ipywidgets-voila.ipynb --VoilaConfiguration.resources='{“gridstack”: {“show_handles”: True}}'
 ```
-Or you can 
+Or you can simply click the "Voila" button in the top part of the jupyter notebook.
+
 
 # Documentation
 Voila: [![Documentation](https://voila.readthedocs.io/en/stable/)](https://voila.readthedocs.io/en/stable/)
