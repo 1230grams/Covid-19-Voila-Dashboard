@@ -1,7 +1,7 @@
 {
     "VoilaConfiguration": {
         "enable_nbextensions": true,
-        "template": "gridstack"
+        "template": "gridstack",
         "show_handles": True
     }
 }
