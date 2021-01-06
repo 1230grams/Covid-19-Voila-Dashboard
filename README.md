@@ -18,9 +18,9 @@ Or you can simply click the "Voila" button in the top part of the jupyter notebo
 
 
 ## Documentation
-Voila: [![Documentation]](https://voila.readthedocs.io/en/stable/)](https://voila.readthedocs.io/en/stable/)
+Voila: [Documentation](https://voila.readthedocs.io/en/stable/)](https://voila.readthedocs.io/en/stable/)
 
-Voila-gridstack: [![Documentation]](https://github.com/voila-dashboards/voila-gridstack)](https://github.com/voila-dashboards/voila-gridstack)
+Voila-gridstack: [![Documentation](https://github.com/voila-dashboards/voila-gridstack)](https://github.com/voila-dashboards/voila-gridstack)
 
 Ipywidgets: [![Documentation](https://ipywidgets.readthedocs.io/en/latest/)](https://ipywidgets.readthedocs.io/en/latest/)
 
